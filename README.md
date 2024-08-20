@@ -46,6 +46,52 @@ During this phase, the tech support team looks for user feedback and ensures it 
 
 Yet this last phase is still important because bugs or errors missed during testing are bound to appear. Simultaneously, by studying user behavior and feedback, the team can start to think about and plan for upgrades
 
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
+Agile vs. waterfall: 
+The waterfall project management method is a linear, step-by-step approach that's ideal for projects with a clear scope and predictable timeline. It involves rigorous planning upfront to ensure that the project stays on track, with progress tracked closely and issues addressed promptly. The Waterfall model usually includes five project management stages (or phases): initiation, planning, execution, monitoring/control, and closing.
+
+While this approach is effective for straightforward projects that require minimal adaptation or creativity, it may not be suitable for more complex initiatives that demand a more flexible and dynamic approach.
+
+Pros of waterfall	Cons of waterfall
+Supports all planning to be completed up front with a clear roadmap for every stage of the project	Changes require significant replanning and adjustment to long-term plans
+Utilizes a clear, structured approach	Challenging to see the value of completed tasks throughout the project if only released at the end
+Easy to track progress, identify risks, and manage project budgets	Long delivery timeline, slow time to market
+Project manager holds significant authority over the project, plan, and value delivery	Value of projects is low until the very end, meaning any pivots cause high sunk costs vs. delivering value
+Agile project management is a flexible and iterative approach that enables teams to quickly adapt to changing project requirements and deliver high-quality results within shorter timeframes. It’s very often used in software development.
+
+Agile methodologies are about teamwork, customer satisfaction, constant refinement, and breaking big projects into bite-sized pieces. By prioritizing collaboration and communication, agile processes enable teams to pivot and respond to evolving customer needs while maintaining a high level of flexibility. The focus on continuous improvement means that teams are always seeking ways to optimize their processes and deliver the best possible results.
+
+Pros of agile	Cons of agile
+Can handle changes to requirements along the way, regardless of size	Requires customer involvement to allow teams to identify and analyze customer needs
+Shorter feedback loops mean faster ability to pivot	Project management holds little authority; focus on facilitation and process instead
+Clear visibility of current/active work items and ability to see progress on tasks over time	Iterative development may lead to engineering refactoring due to changes over time
+Support for engineering discipline and upfront testing, improving quality	Allows for additional feature requests which may add cost or time
+When implementing an agile methodology in your organization, it's essential to understand the different types of agile methods and workflows (such as scrum*, kanban, extreme programming, lean development, and crystal) and how they work together. The best agile practitioners understand the principles behind each methodology so they can make informed decisions on which agile method to try first.
+
+Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
+Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project's life cycle, with adjustments made as new information or requirements emerge.
+Scope: The waterfall methodology generally discourages changes to the project's scope, even with change requests used correctly. This is because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes more costly after the project has begun. On the other hand, agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
+Time frames: The waterfall method is designed for long-term projects with predetermined timelines. The project is completed linearly, with each phase dependent on the previous one. Agile, however, uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
+Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin. Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
+Delivery: Agile allows for quick delivery of projects with shorter lifecycles, as each iteration delivers a workable product. Waterfall requires the completion of all tasks before any work can be released.
+Flexibility: Agile encourages teams to respond quickly and adaptively to changes during the development process. Waterfall is less flexible and resistant to change once the project's scope has been defined.
+Testing: Testing is essential to the agile and waterfall methodologies, but the approaches differ significantly. Agile emphasizes incremental testing to identify and resolve issues throughout the development process. In waterfall, testing is usually done at specific milestones, often towards the end of the project.
+Documentation: Agile relies on minimal documentation, focusing on self-organizing teams and collaboration. Waterfall, in contrast, relies heavily on documenting each step in detail to ensure that all team members are on the same page.
+Communication: Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders. In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.
+
+Waterfall project management best suits well-defined projects with clearly specified requirements, limited complexity, and a definitive timeline. Waterfall works well when the customer's demands are precise and when there are no significant changes in scope or technology during the project.
+
+The waterfall model fits projects with the following characteristics:
+
+Simple scope and requirement gathering
+Clear and linear sequence of tasks
+Predictable deliverables based on set deadlines
+Structured processes
+Rigid quality control measures
+Long-term commitment from all parties involved
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
